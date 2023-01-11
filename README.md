@@ -7,3 +7,8 @@
 
 ![screenshot](./assets/localhost_3001_.png)
 
+
+### firebase notes
+- public holds static files
+- funtions holds dynamic server files
+    - want this for handlebars - templating
