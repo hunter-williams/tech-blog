@@ -5,7 +5,11 @@
 # [tech-blog-mvc-api.web.app](https://tech-blog-mvc-api.web.app/)
 **hosted on firebase because of heroku paywall**
 
-![screenshot](./assets/localhost_3001_.png)
+
+## images
+![username](./assets/username.png)
+![anon](./assets/anon.png)
+![home](./assets/home.png)
 
 
 ### firebase notes
